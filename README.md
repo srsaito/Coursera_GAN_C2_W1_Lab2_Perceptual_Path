@@ -1,0 +1,2 @@
+# Coursera_GAN_C2_W1_Lab2_Perceptual_Path
+Coursera_GAN_C2_W1_Lab2_Perceptual_Path is second lab in course 2
